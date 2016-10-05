@@ -1,5 +1,12 @@
 body {
   background-color: #f7f7f7;
+  font-family: 'Helvetica'
+  .bold {
+    font-weight: 700
+  }
+  .fave {
+    background-color: ivory
+  }
 }
 
 /* 
